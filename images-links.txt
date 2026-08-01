@@ -1,0 +1,46 @@
+{
+  "gallery": [
+    {
+      "url": "",
+      "alt_ru": "Работа 1",
+      "alt_de": "Werk 1",
+      "wide": true
+    },
+    {
+      "url": "",
+      "alt_ru": "Работа 2",
+      "alt_de": "Werk 2",
+      "wide": false
+    },
+    {
+      "url": "",
+      "alt_ru": "Работа 3",
+      "alt_de": "Werk 3",
+      "wide": false
+    },
+    {
+      "url": "",
+      "alt_ru": "Работа 4",
+      "alt_de": "Werk 4",
+      "wide": false
+    },
+    {
+      "url": "",
+      "alt_ru": "Работа 5",
+      "alt_de": "Werk 5",
+      "wide": false
+    },
+    {
+      "url": "",
+      "alt_ru": "Работа 6",
+      "alt_de": "Werk 6",
+      "wide": true
+    }
+  ],
+  "about_photo": {
+    "url": "images/logo.jpg",
+    "alt_ru": "Фото художника",
+    "alt_de": "Foto der Künstlerin"
+  },
+  "_comment": "Вставьте ссылки с imgur.com в поле url. Если url пустое — покажется placeholder. about_photo — фото в разделе Обо мне."
+}
